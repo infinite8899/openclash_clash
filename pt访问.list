@@ -1,6 +1,8 @@
-  - DOMAIN-SUFFIX,nicept.net,DIRECT
-  - DOMAIN-SUFFIX,btschool.club,DIRECT
-  - DOMAIN-SUFFIX,soulvoice.club,DIRECT
-  - DOMAIN-SUFFIX,ptsbao.club,DIRECT
-  - DOMAIN-SUFFIX,m-team.cc.com,DIRECT
-  - DOMAIN-SUFFIX,dicmusic.com.com,DIRECT
+# NAME:pt访问
+# AUTHOR: infinite8899
+DOMAIN-SUFFIX,nicept.net,DIRECT
+DOMAIN-SUFFIX,btschool.club,DIRECT
+DOMAIN-SUFFIX,soulvoice.club,DIRECT
+DOMAIN-SUFFIX,ptsbao.club,DIRECT
+DOMAIN-SUFFIX,m-team.cc.com,DIRECT
+DOMAIN-SUFFIX,dicmusic.com.com,DIRECT
