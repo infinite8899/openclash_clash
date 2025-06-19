@@ -1,8 +1,10 @@
- - DOMAIN-SUFFIX,javdb.com
- - DOMAIN-SUFFIX,jav006.com
- - DOMAIN-SUFFIX,javlibrary.com
- - DOMAIN-SUFFIX,javlib.com
- - DOMAIN-KEYWORD,javlibrary
- - DOMAIN-KEYWORD,javdb
- - DOMAIN-KEYWORD,jav
- - DOMAIN-SUFFIX,jdbstatic.com
+# NAME:开车
+# AUTHOR: infinite8899
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,jav006.com
+DOMAIN-SUFFIX,javlibrary.com
+DOMAIN-SUFFIX,javlib.com
+DOMAIN-KEYWORD,javlibrary
+DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,jav
+DOMAIN-SUFFIX,jdbstatic.com
