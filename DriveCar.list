@@ -9,6 +9,6 @@ DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,jav
 DOMAIN-SUFFIX,jdbstatic.com
 
-DOMAIN-SUFFIX,twitch.tv,Proxy
-DOMAIN-SUFFIX,ttvnw.net,Proxy
-DOMAIN-SUFFIX,jtvnw.net,Proxy
+# DOMAIN-SUFFIX,twitch.tv,Proxy
+# DOMAIN-SUFFIX,ttvnw.net,Proxy
+# DOMAIN-SUFFIX,jtvnw.net,Proxy
